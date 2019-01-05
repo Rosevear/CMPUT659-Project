@@ -1,1 +1,1 @@
-Course project on auxiliary tasks for CMPUT 659, for the Winter 2018 term at the University of Alberta.
+Course project on auxiliary tasks for CMPUT 659, for the Winter 2018 term at the University of Alberta, investigating the impact of auxiliary prediction tasks on neural network based Q-agents in a simple gridworld environment. See the paper for details.
